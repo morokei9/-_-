@@ -33,7 +33,7 @@ CNN 은
 로 변환되어 인풋을 받게 되고,
 
 알파제로를 참고해서
-Residual Network + BAtch Normalization 을 사용한 2 hidden layer 가 있습니다.
+Residual Network + BAtch Normalization 을 사용한 Hidden layers 가 있습니다.
 
 제 그래픽 카드가 RTX 3070 이라서 히든 레이어 CNN 2개에 Linear 1개 했습니다.......ㅠ
 
