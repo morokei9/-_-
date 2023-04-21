@@ -115,5 +115,4 @@ BETAZERO의 이름은 대놓고 Google Deepmind 의 AlphaZero 에서 따왔습�
 
 등에도 기본 구조를 사용할 예정입니다.
 
-www.morokei.com/DeepLearning/Chess
 에 모델이 바보일 때 부터 고수일 때까지 기보를 섬섬히 넣었습니다.
